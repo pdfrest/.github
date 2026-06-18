@@ -2,21 +2,21 @@
 
 ![pdfRest API Toolkit](https://cms.pdfrest.com/content/images/2022/11/pdfRest_logo_tag_750_275_light_bg.png)
 
-[pdfRest.com](https://pdfrest.com/) | [Get Started](https://pdfrest.com/getstarted/) | [API Lab](https://pdfrest.com/apilab/) | [Explore the Toolkit](https://pdfrest.com/apitools/) | [Solutions](https://pdfrest.com/learning/solutions/) | [Pricing](https://pdfrest.com/pricing/) | [Documentation](https://docs.pdfrest.com/) | [Support](https://pdfrest.com/support/)
+**[pdfRest.com](https://pdfrest.com/) | [Get Started](https://pdfrest.com/getstarted/) | [API Lab](https://pdfrest.com/apilab/) | [Explore the Toolkit](https://pdfrest.com/apitools/) | [Solutions](https://pdfrest.com/learning/solutions/) | [Pricing](https://pdfrest.com/pricing/) | [Documentation](https://docs.pdfrest.com/) | [Support](https://pdfrest.com/support/)**
 
 </div>
 
 <br>
 
-**[pdfRest](https://pdfrest.com/) provides an enterprise grade REST API for professional document workflows. Built by the digital document experts at [Datalogics](https://www.datalogics.com) and powered by trusted Adobe PDF Library technology, our platform makes complex PDF automation simple, scalable, and secure. Start with our [API Code Samples](https://github.com/pdfrest/pdfrest-api-samples) or our [Python SDK](https://github.com/pdfrest/pdfrest-python) to quickly integrate 40+ PDF tools into your tech stack.**
+[pdfRest](https://pdfrest.com/) provides an enterprise grade REST API for professional document workflows. Built by the digital document experts at [Datalogics](https://www.datalogics.com) and powered by trusted Adobe PDF Library technology, our platform makes complex PDF automation simple, scalable, and secure. Start with our [API Code Samples](https://github.com/pdfrest/pdfrest-api-samples) or our [Python SDK](https://github.com/pdfrest/pdfrest-python) to quickly integrate 40+ PDF tools into your tech stack.
 
 <br>
 
 ## Why Developers Choose pdfRest
 
-* **Built for Scale** Process millions of documents with AWS powered reliability and zero upfront dependencies
-* **Frictionless Integration** Connect from any language or low code platform using our comprehensive code samples and dedicated Python SDK
-* **Uncompromising Security** Rely on enterprise grade protection tailored for your most sensitive data
+* **Built for Scale:** Process millions of documents with AWS powered reliability and zero upfront dependencies
+* **Frictionless Integration:** Connect from any language or low code platform using our comprehensive code samples and dedicated Python SDK
+* **Uncompromising Security:** Rely on enterprise grade protection tailored for your most sensitive data
 
 <br>
 
@@ -41,9 +41,9 @@ We provide every programmatic endpoint required to build sophisticated document 
 
 Whether you need instant access or complete on premises data sovereignty, we offer a deployment model tailored to your infrastructure.
 
-* **[Cloud API](https://pdfrest.com/products/pdfrest-api-toolkit-cloud/)** Connect instantly with a simple API key and zero infrastructure overhead
-* **[Self Hosted on AWS](https://pdfrest.com/products/pdfrest-api-toolkit-on-aws/)** Deploy directly into your own AWS VPC for total control over scaling and data residency
-* **[Docker Container](https://pdfrest.com/products/pdfrest-api-toolkit-container/)** Run our self hosted image on your local hardware or private cloud environment
+* **[Cloud API](https://pdfrest.com/products/pdfrest-api-toolkit-cloud/)** - Connect instantly with a simple API key and zero infrastructure overhead
+* **[Self Hosted on AWS](https://pdfrest.com/products/pdfrest-api-toolkit-on-aws/)** - Deploy directly into your own AWS VPC for total control over scaling and data residency
+* **[Docker Container](https://pdfrest.com/products/pdfrest-api-toolkit-container/)** - Run our self hosted image on your local hardware or private cloud environment
 
 <br>
 
@@ -51,22 +51,22 @@ Whether you need instant access or complete on premises data sovereignty, we off
 
 Trust is paramount when handling documents. The pdfRest platform guarantees protection through rigorous standards for GDPR and HIPAA along with independently audited [SOC 2 Type 2 compliance](https://trust.pdfrest.com/). We confidently process your sensitive data and can provide a Business Associate Agreement or Data Processing Agreement upon request.
 
-* **Global Infrastructure** Cloud API services are hosted in the AWS Ohio region. GDPR compliant EU plans utilize dedicated endpoints hosted exclusively in Germany, Ireland, France, and Sweden
-* **Data Encryption** All production volumes are encrypted at rest with AES 256 and in transit with up to date TLS certificates
-* **Access and Isolation** Systems employ strict role based access controls with zero third party contractors. Customer files are segregated and only accessible via unique 128 bit UUIDs returned upon a successful API call
-* **Ephemeral Storage** Production systems utilize infrastructure as code with no permanent backups. Files are automatically deleted based on your plan's retention period
-* **On Demand Deletion** You maintain complete control over your data. You can optionally delete files right away on demand using our Delete Files API tool
-* **Continuous Monitoring** We perform regular code reviews, threat protection monitoring on public endpoints, and internal security assessments of all storage networking and dependencies
+* **Global Infrastructure:** Cloud API services are hosted in the AWS Ohio region. GDPR compliant EU plans utilize dedicated endpoints hosted exclusively in Germany, Ireland, France, and Sweden
+* **Data Encryption:** All production volumes are encrypted at rest with AES 256 and in transit with up to date TLS certificates
+* **Access and Isolation:** Systems employ strict role based access controls with zero third party contractors. Customer files are segregated and only accessible via unique 128 bit UUIDs returned upon a successful API call
+* **Ephemeral Storage:** Production systems utilize infrastructure as code with no permanent backups. Files are automatically deleted based on your plan's retention period
+* **On Demand Deletion:** You maintain complete control over your data. You can optionally delete files right away on demand using our Delete Files API tool
+* **Continuous Monitoring:** We perform regular code reviews, threat protection monitoring on public endpoints, and internal security assessments of all storage networking and dependencies
 
 <br>
 
 ## Quick Start Guide
 
-1. **[Claim Your Free API Key](https://pdfrest.com/getstarted/)** Get immediate access with 100 free monthly API calls
-2. **[Test in the API Lab](https://pdfrest.com/apilab/)** Validate your workflow in our graphical UI and auto generate your starting code
-3. **[Browse Code Samples](https://github.com/pdfrest/pdfrest-api-samples)** Find drop in code samples for JavaScript, Python, PHP, Java, .NET, and cURL
-4. **[Get the Python SDK](https://github.com/pdfrest/pdfrest-python)** Install our dedicated package from [PyPI](https://pypi.org/project/pdfrest/) for seamless integration into Python projects
-5. **[Read the Documentation](https://docs.pdfrest.com/cloud-api-reference/)** Dive deep into endpoint parameters and configuration options
+1. **[Claim Your Free API Key](https://pdfrest.com/getstarted/)** - Get immediate access with 100 free monthly API calls
+2. **[Test in the API Lab](https://pdfrest.com/apilab/)** - Validate your workflow in our graphical UI and auto generate your starting code
+3. **[Browse Code Samples](https://github.com/pdfrest/pdfrest-api-samples)** - Find drop in code samples for JavaScript, Python, PHP, Java, .NET, and cURL
+4. **[Get the Python SDK](https://github.com/pdfrest/pdfrest-python)** - Install our dedicated package from [PyPI](https://pypi.org/project/pdfrest/) for seamless integration into Python projects
+5. **[Read the Documentation](https://docs.pdfrest.com/cloud-api-reference/)** - Dive deep into endpoint parameters and configuration options
 
 <br>
 
