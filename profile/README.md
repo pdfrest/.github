@@ -49,7 +49,7 @@ Whether you need instant access or complete on premises data sovereignty, we off
 
 ## Enterprise Security and Privacy
 
-Trust is paramount when handling documents. The pdfRest platform guarantees protection through rigorous standards for GDPR and HIPAA along with independently audited [SOC 2 Type 2 compliance](https://trust.pdfrest.com/). We confidently process your sensitive data and can provide a Business Associate Agreement or Data Processing Agreement upon request.
+Trust is paramount when handling documents. The pdfRest platform guarantees protection through rigorous standards for GDPR and HIPAA along with independently audited [SOC 2 Type 2 compliance](https://trust.datalogics.com/). We confidently process your sensitive data and can provide a Business Associate Agreement or Data Processing Agreement upon request.
 
 * **Global Infrastructure:** Cloud API services are hosted in the AWS Ohio region. GDPR compliant EU plans utilize dedicated endpoints hosted exclusively in Germany, Ireland, France, and Sweden
 * **Data Encryption:** All production volumes are encrypted at rest with AES 256 and in transit with up to date TLS certificates
